@@ -1,0 +1,36 @@
+body{
+  background-color:#FFA500;
+  color : black;
+  font-family: Courier, monospace;
+}
+
+GREETING_CARD
+{
+  image-orientation: top left;
+}
+h1
+{
+  color: black;
+  text-align: center;
+}
+h2
+{
+  color: black;
+  text-align: justify;
+}
+h4
+{
+  color: black;
+  text-align: left;
+}
+img
+{
+  text-align : center;
+  height: 400px;
+  width : 400px;
+}
+.image
+{
+  text-align:center;
+
+}
